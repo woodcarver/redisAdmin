@@ -1,0 +1,6 @@
+This is a little websit tool to administrate your redis.
+To use it, you just have to configurate the Config.php under the config folder.
+Like this:
+$redis_config = array(
+	'0'=>array('host'=>"192.168.1.220",'port'=>6379),
+);
