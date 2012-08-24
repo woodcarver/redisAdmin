@@ -1,0 +1,26 @@
+body {
+font-family: sans-serif;
+color: black;
+margin: 0;
+padding: 0.2em 0.2em 0.2em 0.2em;
+}
+a{
+    text-decoration:none;
+}
+table{
+    
+}
+tr{
+    background: #E5E5E5;
+}
+tr.odd th, .odd {
+    background: #E5E5E5;
+}
+table tr:hover{
+    background: #CFC;
+    color: black;
+}
+td{
+    padding:5px 10px;
+}
+/*-----------------------navigation------------------------------*/
